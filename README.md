@@ -17,5 +17,8 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-%23266999.svg?style=for-the-badge)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+![Codewars](https://github.r2v.ch/codewars?user=kuznetsov-e&stroke=%23BB432C)
